@@ -13,5 +13,7 @@ namespace MusicStoreAPI.Models
         {
 
         }
+
+        public DbSet<Album> Albums { get;  set; }
     }
 }
