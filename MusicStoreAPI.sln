@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStoreAPI", "MusicStoreAPI\MusicStoreAPI.csproj", "{921A4797-466D-45EB-816E-856A31BC077B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921A4797-466D-45EB-816E-856A31BC077B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921A4797-466D-45EB-816E-856A31BC077B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921A4797-466D-45EB-816E-856A31BC077B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921A4797-466D-45EB-816E-856A31BC077B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F84E5591-B379-4344-9334-DA9E6EE0632B}
+	EndGlobalSection
+EndGlobal
